@@ -1,11 +1,17 @@
 # coding-practice
 
-A personal archive of code, algorithms, and experiments.
+A personal repository for practicing algorithms, data structures, and core programming concepts.
 
-## 📂 Structure
+## Structure
 
-- **`/problems`** — Solutions to algorithmis and data structures.
-- **`/notes`** — Personal documentation and reference sheets.
+- **`/problems`** — Algorithm and data structure solutions  
+- **`/notes`** — Short notes and references  
+- **`/programming-languages`** — Language-specific code and experiments  
+
+## Purpose
+
+Practice, revision, and interview preparation.
 
 ---
-*Licensed under MIT*
+
+Licensed under the MIT License.

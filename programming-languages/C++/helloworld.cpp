@@ -67,6 +67,6 @@ int main(){
 
     using std::cout; // Using the cout object from the std namespace to output to the console
     using std::string; // Using the string type from the std namespace to declare string variables
-
+    
     return 0; // Return 0 to indicate that the program ended successfully
 }
